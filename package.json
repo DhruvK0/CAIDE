@@ -1,0 +1,27 @@
+{
+  "name": "caide",
+  "version": "1.0.0",
+  "description": "An AI agent companion for CAD software to streamline information management and file sharing",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "caide-test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhruvK0/CAIDE.git"
+  },
+  "keywords": [
+    "CAD",
+    "AI"
+  ],
+  "author": "Dhruv Kanetkar & Sujaan Mukherjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DhruvK0/CAIDE/issues"
+  },
+  "homepage": "https://github.com/DhruvK0/CAIDE#readme",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
